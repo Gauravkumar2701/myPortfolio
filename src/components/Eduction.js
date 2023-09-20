@@ -61,7 +61,7 @@ const Education = () => {
             time={"2018-2020"}
             place={"Kalka Public School"}
             info={
-              "Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial Intelligence."
+              "Relevant courses included Mathematics, Science, Programming(Python)"
             }
           />
 

@@ -55,52 +55,22 @@ const Experience = () => {
 
                     
                     <Details 
-                    position = { "Software Engineer" }
-                    company={"Google"}
-                    companyLink={"https://www.google.com"}
-                    time = { "2022-Present" }
-                    address = { "Mountain View, CA" }
+                    position = { "Backend Developer" }
+                    company={"ETTECHNOLOGY"}
+                    companyLink={""}
+                    time = { "Jan 2023 - Jun 2023Present" }
+                    address = { "New Delhi, India" }
                     work = {"Worked on a team responsible for developing new features for Google's search engine, including improving the accuracy and relevance of search results and developing new tools for data analysis and visualization."}
                     
                     />
 
 
                     <Details 
-                    position = { "Software Engineer" }
-                    company={"Google"}
-                    companyLink={"https://www.google.com"}
-                    time = { "2022-Present" }
-                    address = { "Mountain View, CA" }
-                    work = {"Worked on a team responsible for developing new features for Google's search engine, including improving the accuracy and relevance of search results and developing new tools for data analysis and visualization."}
-                    
-                    />
-
-                    <Details 
-                    position = { "Software Engineer" }
-                    company={"Google"}
-                    companyLink={"https://www.google.com"}
-                    time = { "2022-Present" }
-                    address = { "Mountain View, CA" }
-                    work = {"Worked on a team responsible for developing new features for Google's search engine, including improving the accuracy and relevance of search results and developing new tools for data analysis and visualization."}
-                    
-                    />
-
-                    <Details 
-                    position = { "Software Engineer" }
-                    company={"Google"}
-                    companyLink={"https://www.google.com"}
-                    time = { "2022-Present" }
-                    address = { "Mountain View, CA" }
-                    work = {"Worked on a team responsible for developing new features for Google's search engine, including improving the accuracy and relevance of search results and developing new tools for data analysis and visualization."}
-                    
-                    />
-
-                    <Details 
-                    position = { "Software Engineer" }
-                    company={"Google"}
-                    companyLink={"https://www.google.com"}
-                    time = { "2022-Present" }
-                    address = { "Mountain View, CA" }
+                    position = { "Scholoarship Student" }
+                    company={"Suse"}
+                    companyLink={"https://www.suse.com/"}
+                    time = { "Aug 2022 - Oct 2022" }
+                    address = { "Remote" }
                     work = {"Worked on a team responsible for developing new features for Google's search engine, including improving the accuracy and relevance of search results and developing new tools for data analysis and visualization."}
                     
                     />
