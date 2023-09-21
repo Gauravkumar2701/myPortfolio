@@ -5,7 +5,7 @@ import Logo from "./Logo"
 import {TwitterIcon, GithubIcon, LinkedInIcon, SunIcon, MoonIcon} from "./Icons"
 import {motion} from "framer-motion";
 import { useRouter } from "next/router";
-import useThemeSwitcher from "./hooks/userThemeSwitcher"
+import useThemeSwitcher from "./hooks/useThemeSwitcher"
 
 
 const CustomLink = ({href, className, title}) =>{
